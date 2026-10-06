@@ -74,14 +74,15 @@ app/src/main/
 
 ## Ảnh chụp màn hình
 
-<!-- Chụp và lưu vào thư mục screenshots/ với đúng tên dưới đây -->
-| Đăng nhập | Lỗi validate | Profile |
+| Đăng nhập | Email sai định dạng | Nhập dữ liệu hợp lệ |
 |---|---|---|
-| ![](screenshots/login.png) | ![](screenshots/login_error.png) | ![](screenshots/profile.png) |
+| ![](screenshots/login.png) | ![](screenshots/login_error.png) | ![](screenshots/login_valid.png) |
 
-| Xoay ngang | Tablet | Layout Inspector |
-|---|---|---|
-| ![](screenshots/login_land.png) | ![](screenshots/login_tablet.png) | ![](screenshots/layout_inspector.png) |
+| Hồ sơ người dùng | Hồ sơ khi xoay ngang |
+|---|---|
+| ![](screenshots/profile.png) | ![](screenshots/profile_land.png) |
+
+> Máy ảo đặt ngôn ngữ English nên giao diện hiển thị chuỗi trong `values-en/strings.xml` (minh họa đa ngôn ngữ).
 
 ## Chạy project
 
