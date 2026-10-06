@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Lab2" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/vlu_red</item>
+        <item name="colorPrimaryDark">@color/vlu_red_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/vlu_red_dark</item>
+    </style>
+
+    <!-- Bo tròn ảnh đại diện (ShapeableImageView) -->
+    <style name="ShapeAppearance.Lab2.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Lab2_Layout_ViewBinding</string>
+
+    <!-- Login -->
+    <string name="logo_desc">Logo VLU</string>
+    <string name="login_title">ĐĂNG NHẬP HỆ THỐNG</string>
+    <string name="hint_email">Địa chỉ Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_login">ĐĂNG NHẬP</string>
+    <string name="msg_missing_info">Vui lòng nhập email và mật khẩu</string>
+    <string name="status_missing">Trạng thái: Vui lòng điền đủ dữ liệu</string>
+    <string name="err_email_invalid">Email không hợp lệ</string>
+    <string name="err_password_short">Mật khẩu tối thiểu 6 ký tự</string>
+    <string name="status_login_ok">Đăng nhập thành công: %1$s</string>
+
+    <!-- Bài tập Cấp 1 & 2 -->
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="msg_forgot_password">Vui lòng liên hệ Phòng Đào tạo để cấp lại mật khẩu</string>
+    <string name="show_password">Hiện mật khẩu</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Hồ sơ người dùng</string>
+    <string name="avatar_desc">Ảnh đại diện</string>
+    <string name="profile_name">Nguyễn Gia Thành</string>
+    <string name="profile_role">Sinh viên Công nghệ thông tin</string>
+    <string name="label_email">Email</string>
+    <string name="label_mssv">MSSV</string>
+    <string name="label_class">Lớp</string>
+    <string name="label_phone">Số điện thoại</string>
+    <string name="value_mssv">2474802010463</string>
+    <string name="value_class">72ITSE30603_01</string>
+    <string name="value_phone">0901 234 567</string>
+    <string name="btn_edit">Chỉnh sửa</string>
+    <string name="btn_logout">Đăng xuất</string>
+    <string name="msg_edit_coming_soon">Chức năng chỉnh sửa sẽ làm ở các buổi sau</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <!-- Login -->
+    <string name="logo_desc">VLU logo</string>
+    <string name="login_title">SIGN IN</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="msg_missing_info">Please enter your email and password</string>
+    <string name="status_missing">Status: Please fill in all fields</string>
+    <string name="err_email_invalid">Invalid email address</string>
+    <string name="err_password_short">Password must be at least 6 characters</string>
+    <string name="status_login_ok">Signed in successfully: %1$s</string>
+
+    <string name="forgot_password">Forgot password?</string>
+    <string name="msg_forgot_password">Please contact the Academic Affairs Office to reset your password</string>
+    <string name="show_password">Show password</string>
+
+    <!-- Profile -->
+    <string name="profile_title">User profile</string>
+    <string name="avatar_desc">Profile picture</string>
+    <string name="profile_name">Nguyen Gia Thanh</string>
+    <string name="profile_role">Information Technology student</string>
+    <string name="label_email">Email</string>
+    <string name="label_mssv">Student ID</string>
+    <string name="label_class">Class</string>
+    <string name="label_phone">Phone number</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_logout">Log out</string>
+    <string name="msg_edit_coming_soon">Editing will be added in a later lab</string>
+</resources>
